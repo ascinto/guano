@@ -4,6 +4,65 @@ All information created for this project is available at [this Github repo](http
 ## molecular work
 > Alissa Scinto will update this extraction history...  
 
+Samples were from the Ph.D. dissertation work of J.T. Foster, collected 2002-2004.
+Methods:
+"Mist-netting of birds occurred annually in March and July. At each site, 16 or 17 nets were opened from sunrise to sunset over 3 days, totaling 400 net hours per banding period. Nets were 10-12 m long and the lowest pocket was positioned at ground level. I collected diet samples through stomach flushing or feces deposited in clean bird bags. Stomach flushing with warm water, administered by a syringe pumped into the stomach via catheter tubing, elicited regurgitation or defecation of stomach contents. The amount of water necessary ranged from 3 to 8 ml, depending on the size of
+the bird. I identified fragments and whole specimens of invertebrates to order and made higher level identifications when possible. Most invertebrates were highly fragmented, so numerical tallies of items were based on the minimum possible number of parts required to construct an individual. To aid in identification, fragments were compared to intact specimens from a reference collection generated from branch clipping of major canopy trees in each forest-type (J. Foster, unpublished data). I consulted taxonomic specialists when necessary (see Acknowledgments)."
+J.T. 2005. Exotic bird invasion into forests of Hawaii: demography, competition, and 
+seed dispersal. Doctoral Dissertation. University of Illinois at Urbana-Champaign. Chapter 4.
+
+Samples were stored at room temperature in 4 ml ethanol in glass vials from 2005 until 2015, when this project began.
+
+Samples are from four bird species:
+[JAWE] Japanese White-eye
+[JABW] Japanese Bush-Warbler (Cettia diphone)
+[RBLE] Red-billed Leiothrix (Leiothrix lutea)
+[MACR] Maui Alauahio/Maui Creeper (Paroreomyza montana)
+
+MATERIALS & METHODS
+
+Sample Preparation and DNA Extraction 
+	Ethanol was pipetted out of vials without disturbing the sample and the vials were set under a fume hood for 12 to 36 hr for complete evaporation of ethanol. The MO BIO Powersoil DNA Isolation Kit (now known as the Qiagen DNeasy Powersoil HTP 96 Kit) was used for DNA extraction and purification for both single tube and 96-wellplate procedures
+
+Dry Out Samples
+1.	Pipette out ethanol without disturbing sample.
+2.	Air dry in fume hood overnight.
+
+MO BIO Powersoil DNA Isolation Kit – DNA Purification
+1.	Transfer sample to PowerBead Tubes. 
+2.	Gently vortex to mix. 
+3.	Add 60 μL of Solution C1 to bead tubes.
+4.	Vortex for 20 minutes.
+5.	Centrifuge for 1 minute at 10,000 x g.
+6.	Transfer supernatant (up to 500 ul) to clean 2 mL Collection Tube.
+7.	Add 250 μL of Solution C2 and vortex for 5 seconds. 
+8.	Incubate at 4°C (fridge) for 5 minutes.
+9.	Centrifuge tubes for 1 minute at 10,000 x g.
+10.	Avoiding the pellet, transfer supernatant (up to 600 ul) into clean 2 mL Collection Tube.
+11.	Add 200 μL of Solution C3 and vortex for 5 seconds. 
+12.	Incubate at 4°C for 5 minutes.
+13.	Centrifuge for 1 minute at 10,000 x g.
+14.	Avoiding the pellet, transfer supernatant (up to 750 ul) into clean 2 mL Collection Tube.
+15.	Add 1100 μL of Solution C4 and vortex for 10 seconds.
+16.	Load 625 μL onto Spin Filter and centrifuge for 1 minute at 10,000 x g. Discard flow-through. Load another 625 μL and centrifuge again. Repeat one more time.
+17.	Add 500 μL of Solution C5 and centrifuge for 30 seconds at 10,000 x g. Discard flow-through.
+18.	Centrifuge again to remove any excess solution.
+19.	Place spin column into a clean 1.5 mL/2 mL Collection Tube.
+20.	Add 100 μL of Solution 6 (elution buffer) directly to spin filter. Don’t pierce filter.
+21.	Incubate samples at 37°C for 5 minutes.
+22.	Centrifuge for 30 seconds at 10,000 x g. Discard spin filter.
+
+Minor modifications of this protocol:
+Single tube extractions: Before loading a sample, the solution in the Powerbead tube was removed. The sample was loaded into the tube now just containing the Powerbeads, and incubated at -80°C for 45 min. The tubes were vortexed for 1 minute. The solution was re-added to the tubes and vortexed for 1 min.
+96-wellplate extractions: To prevent “flying” of sample material during transfer from vial into wellplate, some samples were slightly wetted with up to 600 μl of phosphate buffer saline. Single-use inoculating loops were used to transfer the sample contents. Blank extractions were included in each plate to measure cross-contamination.
+The initial vortex of sample and C1 solution was extended from 10 min to 20 min for both protocols. In the final elution step, 100 μl of C6 was used instead of 200 μl. Extracted samples were stored at -20°C until processing.
+
+There were a total of 5 plates, 436 samples, in this experiment. Three plates underwent PCR in the 2016 and two in 2017. 
+
+All PCR assays were completed using a 96-wellplate protocol. Samples that were extracted using the single tube extraction protocol were transferred to 96-wellplates at 25 μl aliquots. For the samples that were extracted using the 96-wellplate, the NTCs were arranged in a diagonal line from A1 to H8. The plates with the samples from the single-tube protocol contained 1-5 NTCs in row H.
+ PCR amplifications were performed in 25 μl reactions containing 13 μl of Thermo Fischer Scientific SuperMix (22 mM Tris-HCl (pH 8.4), 55 mM KCl, 1.65 mM Magnesium Chloride, 220 μM dGTP, 220 μM dATP, 220 μM dTTP, 220 μM dCTP, 22 U/ml recombinant Taq DNA Polymerase, and stabilizers), 1 μl of the forward primer, 1 μl of the reverse primer, and 10 μl of template DNA. Thermal cycling conditions were as follows: 95°C for 5 min then 40 cycles (95°C for 15 s/primer annealing at 52°C for 30 s/72°C for 30 s) followed by 72°C for 7 min. Negative and positive control reactions were employed each set of assays. PCR products were quantified using the Quant-iTTM PicoGreenTM dsDNA Assay kit, using 1 μl PCR product in 99 μl buffer solution. Two libraries were constructed to pool amplified and tagged DNA. The amount of each sample pooled was determined by the concentration of DNA to even the amount of DNA sequenced across samples. The libraries were concentrated using a vacuum centrifuge to approximately 100 ml. The two libraries were quantified using Qubit fluorometric quantification and TapeStation. 
+
+
 - include any information regarding the experimental design in which collections were performed (ie. what areas were the fecal samples collected, when were they collected, by whom were they collected, etc.)  
 - include description of how samples were collected; what media they were stored in (ex. ethanol, air, RNAlater, etc.); whether they were frozen; how they were shipped
 - include specific kit and protocols used to extract DNA (ex. MoBio? Qiagen? list any deviations from manufacturer protocol)  
